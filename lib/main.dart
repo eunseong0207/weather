@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'data/data_source/weather_data_source.dart';
+import 'data/datasource/weather_data_source.dart';
 import 'data/repository/weather_repository_impl.dart';
 import 'domain/use_case/get_weather_use_case.dart';
 import 'ui/screen/weather_screen.dart';
